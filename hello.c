@@ -4,7 +4,7 @@ int main(void)
 {
     printf("Hello World !");
     printf("\r\n");
-    printf("By Áõ²¨");
+    printf("By RyubÂ¨");
     getchar();
     return 0;
    
